@@ -13,7 +13,7 @@ and would look something like:
 
 and expected console output when there is difference in images:
 
-<img width="1001" alt="image" src="https://github.com/leelasriteja/Cypress-image-comparison/assets/29068723/a2b72a69-8c4c-42e3-a999-cdb236056256">
+<img width="468" alt="Screen Shot 2023-05-18 at 6 14 37 PM" src="https://github.com/leelasriteja/Cypress-image-comparison/assets/29068723/1149a4e2-be0d-4ba7-928c-23dbaa86b9f6">
 
 The main logic lies in below piece of code: 
 
@@ -33,5 +33,5 @@ The main logic lies in below piece of code:
             "separator": ","
           });
       });
-  }); ```
+  }); 
 
